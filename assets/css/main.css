@@ -1203,7 +1203,7 @@ header {
   }
 
   .invest__item__subtitle {
-    top: -2px;
+    top: 0px;
   }
 
   .one {
@@ -1221,8 +1221,8 @@ header {
   }
 
   .btn__invest {
-    width: 15rem;
-    margin-left: 12%;
+    width: 10rem;
+    margin-left: 20%;
     margin-bottom: -8%;
     
   }

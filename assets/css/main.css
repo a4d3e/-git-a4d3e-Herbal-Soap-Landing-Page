@@ -1260,6 +1260,19 @@ header {
   background: url(../img/investments/invest-2.png) no-repeat center / cover;
   margin-right: 20%;
 }
+.btn__farm--invest {
+  border: 1px solid #66BB6A;
+  color: #ffffff;
+  display: inline-block;
+  min-width: 2rem;
+  margin-top: 4rem;
+  box-shadow: 1px 10px 30px -10px #66bb6a;
+  display: inline-block;
+  transition: all .3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
 }
 
 @media screen and (max-width: 500px) {
